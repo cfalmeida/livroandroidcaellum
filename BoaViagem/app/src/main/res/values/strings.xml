@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">BoaViagem</string>
+    <!-- Tela Login -->
+    <string name="lblUsuario">Usuário</string>
+    <string name="lblSenha">Senha</string>
+    <string name="btnEntrar">Entrar</string>
+
+    <!-- Mensagens Padrão -->
+    <string name="erro_autenticacao"> Usuário ou senha inválidos</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!--Tela Dashboard-->
+    <string name="lblNovoGasto">Novo Gasto</string>
+    <string name="lblNovaViagem">Nova Viagem</string>
+    <string name="lblMinhasViagens">Minhas Viagens</string>
+    <string name="lblConfiguracao">Configuração</string>
+    <string name="sair">Sair</string>
+    <!--Tela Nova Viagem-->
+    <string name="lblCadastraNovaViagem">Nova Viagem</string>
+    <string name="lblDestino">Destino</string>
+    <string name="lblTipoDaViagem">Tipo da viagem</string>
+    <string name="rdbLazer">Lazer</string>
+    <string name="rdbNegocios">Negócios</string>
+    <string name="lblDataChegada">Data da Chegada</string>
+    <string name="lblDataSaida">Data da Saída</string>
+    <string name="btnSelecionarDtChegada">Selecione</string>
+    <string name="btnSelecionaeDtSaida">Selecione</string>
+    <string name="lblOrcamento">Orçamento:</string>
+    <string name="lblNumeroPessoas">"Nº de Pessoas:"</string>
+    <string name="btnCriarNovaViagem">Criar nova viagem</string>
+    <!-- Tela Gasto -->
+    <string name="lblGasto">Novo Gasto</string>
+    <string name="lblTipoGasto">Tipo:</string>
+    <string name="lblValorGasto">Valor:</string>
+    <string name="lblDataGasto">Data:</string>
+    <string name="lblDescricaoGasto">Descricao</string>
+    <string name="lblLocalGasto">Local:</string>
+    <string name="btnRegistrarGasto">Registrar</string>
+    <string name="btnSelecionarDataGasto">Selecionar</string>
+    <string name="spnCategoriaGasto">Categoria</string>
+
+    <!--Lista Gasto-->
+    <string name="remover">Remover</string>
+
+    <!--Lista Viagem-->
+    <string name="editar">Editar</string>
+    <string name="novo_gasto">Novo gasto</string>
+    <string name="gastos_realizados">Gastos realizados</string>
+    <string name="remover_gasto">Remover</string>
+    <string name="opcoes">Opções</string>
+    <string name="confirmaexclusao">Deseja realmente remover a viagem?</string>
+    <string name="opcao_sim">Sim</string>
+    <string name="opcao_nao">Não</string>
+
+    <!--Categorias Gasto-->
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustível</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+
+
+</resources>
